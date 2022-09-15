@@ -35,31 +35,37 @@ nav > a{
 nav > .mond:hover{
     color:black;
     background-color:aqua;
-    border-radius:10px 0px;
+    border-radius:10px 10px;
 }
 nav > .liy:hover{
     color: black;
     background-color: goldenrod;
+    border-radius:10px 10px;
 }
 nav > .inza:hover{
     color: black;
     background-color: purple;
+    border-radius:10px 10px;
 }
 nav > .sum:hover{
     color: black;
     background-color: green;
+    border-radius:10px 10px;
 }
 nav > .font:hover{
     color: black;
     background-color: blue;
+    border-radius:10px 10px;
 }
 nav > .nat:hover{
     color: black;
     background-color: red;
+    border-radius:10px 10px;
 }
 nav > .snez:hover{
     color: black;
     background-color: lightblue;
+    border-radius:10px 10px;
 }
 main{
     border-radius:0px ;
