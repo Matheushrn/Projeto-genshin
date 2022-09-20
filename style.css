@@ -3,11 +3,15 @@
     margin:0px;
 }
 body{
-    background-color: black;
+    background-image: url(Imagens/Genshin\ Verão.png);
+    min-width: 370px;
+    min-height: 677px;
 }
 header{
+    min-width: 375px;
     text-align: center;
     background-image: linear-gradient(to right,#eeeeee,#9fc5e8);
+    margin: auto;
 }
 header > h1{
     text-decoration: underline;
@@ -23,6 +27,7 @@ nav {
     background-image: linear-gradient(to right,	#eeeeee,#9fc5e8);
     color: black;
     padding:10px;
+    margin: auto;
     box-shadow: 1px 1px 0px 0px black;
 }
 nav > a{
@@ -68,23 +73,13 @@ nav > .snez:hover{
     border-radius:10px 10px;
 }
 main{
-    border-radius:0px ;
-    padding:20px;  
-    margin:0px 250px; 
-    background-image: linear-gradient(to right,#eeeeee,#9fc5e8);
+    min-width: 370px;
+    max-width:1000px;
+    min-height: 677px;
+    border-radius:0px; 
+    margin:auto;
+    background-color: transparent;
 
-}
-article{
-    border-radius: 0px;
-    padding:20px;
-    margin:0px 250px;
-    background-image: linear-gradient(to right,#eeeeee,#9fc5e8);
-}
-aside{
-    border-radius:0px;
-    padding:20px;
-    margin: 0px 250px;
-    background-image: linear-gradient(to right,#eeeeee,#9fc5e8);
 }
 footer{
     text-align: center;
