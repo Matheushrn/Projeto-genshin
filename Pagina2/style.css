@@ -1,0 +1,63 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding:60px;
+    margin:30px;
+}
+div.mond{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    background-image: url(Cidade_de_Mondstadt.jpg);
+    background-position: center;
+    padding:100px;
+    margin: auto;
+}
+div.Liyue{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    background-image: url(Porto_de_Liyue.jpg);
+    background-position: center;
+    padding:100px;
+    margin: auto;
+}
+div.Ina{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+   background-image: url(Genshin-impact-inazuma-region.jpg);
+   background-position: center;
+    padding:100px;
+    margin: auto;
+}
+div.Sum{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    background-image: url(Sumeru_City.jpg);
+    background-position:center;
+    padding:100px;
+    margin: auto;
+}
+div.Fon{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    padding:100px;
+    margin: auto;
+}
+div.nat{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    padding:100px;
+    margin: auto;
+}
+div.snez{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1.5px solid black;
+    border-radius: 10px ;
+    padding:100px;
+    margin: auto;
+}
