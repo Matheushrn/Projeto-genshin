@@ -5,6 +5,7 @@ header{
     margin:30px;
 }
 div.mond{
+    font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -14,6 +15,7 @@ div.mond{
     margin: auto;
 }
 div.Liyue{
+    font-size:2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -23,6 +25,7 @@ div.Liyue{
     margin: auto;
 }
 div.Ina{
+    font-size:2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -32,6 +35,7 @@ div.Ina{
     margin: auto;
 }
 div.Sum{
+    font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -41,6 +45,7 @@ div.Sum{
     margin: auto;
 }
 div.Fon{
+    font-size:2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -48,6 +53,7 @@ div.Fon{
     margin: auto;
 }
 div.nat{
+    font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
@@ -55,6 +61,7 @@ div.nat{
     margin: auto;
 }
 div.snez{
+    font-size: 2.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
