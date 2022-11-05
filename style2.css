@@ -9,7 +9,7 @@ div.mond{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
-    background-image: url(Cidade_de_Mondstadt.jpg);
+    background-image: url(regiões/1mond/Mondstadt.jpg);
     background-position: center;
     padding:100px;
     margin: auto;
@@ -19,7 +19,7 @@ div.Liyue{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
-    background-image: url(Porto_de_Liyue.jpg);
+    background-image: url(regiões/2li/Liyue.jpg);
     background-position: center;
     padding:100px;
     margin: auto;
@@ -29,7 +29,7 @@ div.Ina{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
-   background-image: url(Genshin-impact-inazuma-region.jpg);
+   background-image: url(regiões/3ina/inazuma.jpg);
    background-position: center;
     padding:100px;
     margin: auto;
@@ -39,7 +39,7 @@ div.Sum{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border:1.5px solid black;
     border-radius: 10px ;
-    background-image: url(Sumeru_City.jpg);
+    background-image: url(regiões/4sum/Sumeru.jpg);
     background-position:center;
     padding:100px;
     margin: auto;

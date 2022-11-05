@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-image: linear-gradient(to right, #73C3AB,#A4D5C2,#B4DCD4,#E0F0EB);
+}
+header{
+    text-align: center;
+    padding:20px;
+}
+nav{
+    padding:10px;
+}
+main{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px black;
+    border:1px solid white;
+    padding:30px 30px 0px 30px;
+    margin:20px 300px 0px 300px;
+}
+li{
+    display:inline-block;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:3px;
+    margin:381px 0px 0px 0px;
+}
